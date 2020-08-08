@@ -9,6 +9,7 @@ On the Windows platform, ensure that the environment path for TShark is set (thi
 Run parse.py with either of the following command syntax (without quotations):
 
 >python parse.py
+
 >python parse.py "fileName"
 
 The above commands can also be run in Mac or Linux by specifying parse.py as the target file to run.
